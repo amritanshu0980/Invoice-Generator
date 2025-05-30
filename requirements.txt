@@ -1,3 +1,8 @@
+--extra-index-url https://pypi.org/simple
+pip>=23.3
+setuptools>=68
+wheel>=0.41
+google-generativeai
 streamlit==1.45.1
 pdfkit==1.0.0
 num2words==0.5.14
@@ -6,4 +11,3 @@ openpyxl==3.1.5
 python-docx==1.1.2
 Jinja2==3.1.6
 protobuf==6.31.1
-google-generativeai
