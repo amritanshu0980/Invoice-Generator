@@ -1,0 +1,51 @@
+product name,product id,price including gst,prices excluding gst,installation charges,total charges
+Laptop," ""PROD001""",1200,1016.95,150,1350
+Mouse," ""PROD002""",250,211.86,50,300
+Monitor," ""PROD003""",5500,4661.02,200,5700
+Keyboard," ""PROD004""",80,67.8,20,100
+Webcam," ""PROD005""",3500,2966.1,100,3600
+Printer," ""PROD006""",8500,7203.39,300,8800
+Headphones," ""PROD007""",1200,1016.95,0,1200
+Smartphone," ""PROD008""",15000,12711.86,0,15000
+Tablet," ""PROD009""",9000,7627.12,0,9000
+External Hard Drive," ""PROD010""",4500,3813.56,50,4550
+Router," ""PROD011""",2800,2372.88,100,2900
+Speaker System," ""PROD012""",6000,5084.75,150,6150
+Graphics Card," ""PROD013""",22000,18644.07,0,22000
+SSD," ""PROD014""",7000,5932.2,0,7000
+CPU," ""PROD015""",18000,15254.24,0,18000
+Motherboard," ""PROD016""",10000,8474.58,0,10000
+RAM Module," ""PROD017""",3000,2542.37,0,3000
+Power Supply," ""PROD018""",4000,3389.83,0,4000
+PC Case," ""PROD019""",3500,2966.1,0,3500
+Gaming Chair," ""PROD020""",11000,9322.03,250,11250
+Desk Lamp," ""PROD021""",750,635.59,0,750
+Webcam Cover," ""PROD022""",150,127.12,0,150
+USB Hub," ""PROD023""",400,338.98,0,400
+Ethernet Cable," ""PROD024""",200,169.49,0,200
+HDMI Cable," ""PROD025""",300,254.24,0,300
+DisplayPort Cable," ""PROD026""",450,381.36,0,450
+USB-C Adapter," ""PROD027""",600,508.47,0,600
+Wireless Charger," ""PROD028""",1800,1525.42,0,1800
+Smartwatch," ""PROD029""",7000,5932.2,0,7000
+Fitness Tracker," ""PROD030""",3000,2542.37,0,3000
+Drone," ""PROD031""",20000,16949.15,0,20000
+Action Camera," ""PROD032""",10000,8474.58,0,10000
+Projector," ""PROD033""",15000,12711.86,200,15200
+Smart TV," ""PROD034""",30000,25423.73,500,30500
+Soundbar," ""PROD035""",8000,6779.66,100,8100
+Gaming Console," ""PROD036""",28000,23728.81,0,28000
+VR Headset," ""PROD037""",25000,21186.44,0,25000
+E-Reader," ""PROD038""",6000,5084.75,0,6000
+Portable Speaker," ""PROD039""",2000,1694.92,0,2000
+Smart Home Hub," ""PROD040""",5000,4237.29,100,5100
+Robot Vacuum," ""PROD041""",12000,10169.49,200,12200
+Air Purifier," ""PROD042""",9000,7627.12,150,9150
+Coffee Maker," ""PROD043""",4000,3389.83,50,4050
+Microwave Oven," ""PROD044""",7000,5932.2,100,7100
+Blender," ""PROD045""",2500,2118.64,0,2500
+Toaster," ""PROD046""",1500,1271.19,0,1500
+Electric Kettle," ""PROD047""",1000,847.46,0,1000
+Hair Dryer," ""PROD048""",1800,1525.42,0,1800
+Electric Shaver," ""PROD049""",2200,1864.41,0,2200
+Digital Camera," ""PROD050""",13000,11016.95,0,13000
