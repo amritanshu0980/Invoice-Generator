@@ -4,16 +4,16 @@ import fitz
 import docx
 import re
 import csv
-try:
-    import google.generativeai as genai
-    gemini_available = True
-except ImportError:
-    gemini_available = False
+# try:
+#     import google.generativeai as genai
+#     gemini_available = True
+# except ImportError:
+#     gemini_available = False
 
 
 # 1. Set up Gemini API
-genai.configure(api_key="AIzaSyANAvtypU-WcvNwoCKGeBg_z1_68uq1-hU")  # Replace with your actual API key
-model = genai.GenerativeModel("gemini-2.0-flash")
+# genai.configure(api_key="AIzaSyANAvtypU-WcvNwoCKGeBg_z1_68uq1-hU")  # Replace with your actual API key
+# model = genai.GenerativeModel("gemini-2.0-flash")
 
 # 2. Read different document formats
 def extract_text(file_path):
