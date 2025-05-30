@@ -1,8 +1,9 @@
-PyMuPDF>=1.22.3
-Jinja2==3.1.6
-num2words==0.5.14
-openpyxl==3.1.5
-pdfkit==1.0.0
-protobuf==6.31.1
-python-docx==1.1.2
 streamlit==1.45.1
+pdfkit==1.0.0
+num2words==0.5.14
+PyMuPDF>=1.22.3
+openpyxl==3.1.5
+python-docx==1.1.2
+Jinja2==3.1.6
+protobuf==6.31.1
+google-generativeai
