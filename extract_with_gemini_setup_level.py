@@ -1,6 +1,6 @@
 import os
 import json
-from PyMuPDF import fitz
+import fitz
 import docx
 import re
 import csv
