@@ -2,7 +2,6 @@
 pip>=23.3
 setuptools>=68
 wheel>=0.41
-google-generativeai
 streamlit==1.45.1
 pdfkit==1.0.0
 num2words==0.5.14
