@@ -1,4 +1,4 @@
-PyMuPDF>=1.22.3
+PyMuPDF==1.22.3
 Jinja2==3.1.6
 num2words==0.5.14
 openpyxl==3.1.5
